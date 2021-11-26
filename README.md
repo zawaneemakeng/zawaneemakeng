@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zawaneemakeng
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python,Dart
+- 🌱 I’m currently learning Python , blablabla
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me FB:Zawanee Makeng
 

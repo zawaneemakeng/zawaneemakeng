@@ -43,8 +43,6 @@
 <p align="center"><img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawaneemakeng&langs_count=10&theme=tokyonight&layout=compact"
         alt="zawaneemakeng :: Top Langs" /><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=zawaneemakeng&show_icons=true&theme=tokyonight"
-        alt="zawaneemakeng :: Profile Stats" />
 </p>
 
 <br>

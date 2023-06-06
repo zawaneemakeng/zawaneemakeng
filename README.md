@@ -1,7 +1,7 @@
 <br>
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
-            src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone..&#128156;++I'm+Zawanee+Makeng;Active+Learner,;Love+to+learn+new+stuffs;Slow+progress+is+still+progress...&#128156;"></a>
+            src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone..&#127799;++I'm+Zawanee+Makeng;Active+Learner,;Love+to+learn+new+stuffs;...&#128156;"></a>
 </p>
 
 <br>

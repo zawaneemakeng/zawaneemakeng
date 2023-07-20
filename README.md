@@ -5,7 +5,7 @@
 </p>
 
 <br>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Thailand</h3><br>
+<h3 align="center">A passionate mobile developer from Thailand</h3><br>
 
 - 🔭 I’m currently working on project : MicroPython and IoT 
 

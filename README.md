@@ -5,9 +5,9 @@
 </p>
 
 <br>
-<h3 align="center">A passionate mobile developer practicing research and coding every day.</h3><br>
+<h3 align="center">A passionate mobile developer practicing research. </h3><br>
 
-- 🔭 I’m currently working on project : MicroPython and IoT 
+- 🔭 I’m currently working on project : Flutter and IoT 
 
 - 🌱 I’m currently learning : Python and Flutter
 

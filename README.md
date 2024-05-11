@@ -7,7 +7,7 @@
 <br>
 <h3 align="center">Passion for writing code in order to create applications. </h3><br>
 
-- 🔭 I’m currently working on project : Flutter and IoT 
+- 🔭 I’m currently working on project : Flutter Project
 
 - 🌱 I’m currently learning : Python and Flutter
 

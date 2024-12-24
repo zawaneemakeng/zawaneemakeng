@@ -7,15 +7,15 @@
 <br>
 <h3 align="center">Passion for writing code in order to create applications. </h3><br>
 
-- 🔭 I’m currently working on project : Flutter Project
+- 🔭 I’m currently working on project : Cooperative Application
 
-- 🌱 I’m currently learning : Python and Flutter
+- 🌱 I’m currently learning : Python and Flutter (Exploring backend and cross-platform mobile development)
 
-- 👯 I’m looking to collaborate on : front-end and back-end projects
+- 👯 I’m looking to collaborate on : Front-end and back-end projects to learn and grow together
 
-- 📫 How to reach me : zawanee6063@gmail.com
+- ⚡ Fun fact about me: I absolutely love cats and coding—it’s my perfect balance!
 
-- ⚡ What I like to do : I like so much reading...and coding of course<br><br>
+- 📫 How to reach me : zawanee.dev@gmail.com<br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/3188/3188314.png" width="27"><b> &nbsp;

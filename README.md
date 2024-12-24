@@ -5,7 +5,7 @@
 </p>
 
 <br>
-<h3 align="center">Passion for writing code in order to create applications. </h3><br>
+<h3 align="center">Passion: Writing code to create meaningful applications.</h3><br>
 
 - 🔭 I’m currently working on project : Cooperative Application
 
